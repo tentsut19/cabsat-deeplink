@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.infinita.cabsat",
+    "sha256_cert_fingerprints":
+    ["FD:ED:22:98:24:41:A6:D3:E8:5E:55:F3:6E:A5:9C:47:7D:F8:B9:E6:7A:9F:4A:D3:CC:A9:FE:6B:CC:AE:B2:E7"]
+  }
+}]
